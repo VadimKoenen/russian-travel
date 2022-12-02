@@ -1,0 +1,21 @@
+.header__links {
+    text-align: right;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0 48px 4px 0;
+    align-self: flex-end;
+}
+
+@media screen and (max-width: 768px) {
+    .header__links {
+        padding: 0 24px 4px 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header__links {
+        padding: 0 16px 6px 0;
+    }
+}

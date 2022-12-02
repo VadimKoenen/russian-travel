@@ -1,0 +1,16 @@
+.cover__link {
+    text-decoration: none;
+    background: rgba(42, 44, 47, 0.3);
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 1184px;
+}
+
+.cover__link:hover {
+    background: rgba(42, 44, 47, 0.8);
+}

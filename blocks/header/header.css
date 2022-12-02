@@ -1,0 +1,15 @@
+/* header */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 28px;
+}
+
+
+@media screen and (max-width: 320px) {
+    .header {
+        padding-top: 16px;
+    }
+}

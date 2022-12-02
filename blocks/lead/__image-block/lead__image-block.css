@@ -1,0 +1,7 @@
+.lead__image-block {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    white-space: normal;
+    justify-items: stretch;
+}
