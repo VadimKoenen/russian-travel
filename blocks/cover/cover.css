@@ -9,7 +9,6 @@
     background-repeat: no-repeat;
     background-origin: border-box;
     box-sizing: border-box;
-    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,7 +16,6 @@
     padding: 0 0 0 0;
     text-align: center;
     flex-direction: column;
-    justify-content: center;
 }
 
 @media screen and (max-width: 768px) {
