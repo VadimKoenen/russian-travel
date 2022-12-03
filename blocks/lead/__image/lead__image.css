@@ -6,11 +6,3 @@
     object-position: center;
     padding-top: 9px;
 }
-
-
-@media screen and (max-wigth: 320px) {
-    .lead__image {
-        width: 100vm;
-    }
-
-}
