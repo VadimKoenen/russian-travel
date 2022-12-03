@@ -2,7 +2,6 @@
     display: block;
     max-width: 560px;
     margin: 0 auto 0 auto;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -10,6 +9,7 @@
     text-align: center;
     color: #FFFFFF;
     padding: 0 0 32px 0;
+    z-index: 2;
 }
 
 
@@ -19,7 +19,6 @@
         font-size: 44px;
         line-height: 48px;
     }
-
 }
 
 @media screen and (max-width: 450px) {
@@ -28,7 +27,6 @@
         font-size: 32px;
         line-height: 35px;
     }
-
 }
 
 

@@ -16,16 +16,16 @@
 }
 
 @media screen and (max-width: 768px) {
-    .place__title {
-        font-size: 42px;
-        line-height: 46px;
-        padding-top: 25px;
+    .place__title:first-of-type {
+        padding-right: 10px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .place__title:first-of-type {
-        padding-right: 10px;
+    .place__title {
+        font-size: 42px;
+        line-height: 46px;
+       padding-top: 23px;
     }
 }
 
@@ -33,7 +33,8 @@
     .place__title {
         font-size: 38px;
         line-height: 40px;
-        padding: 18px 0 0 17px;
+        padding-top: 18px;
+        padding-left: 17px;
     }
 }
 
@@ -41,6 +42,6 @@
     .place__title {
         font-size: 32px;
         line-height: 35px;
-        padding: 18px 0 0 17px;
+        padding-top: 16px;
     }
 }
