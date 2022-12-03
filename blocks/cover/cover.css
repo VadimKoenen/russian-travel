@@ -1,14 +1,4 @@
-/* cover */
 .cover {
-    /*background-image: url(../../images/cover-trains.jpg);
-    background-size: cover;
-    background-position: center;
-    max-width: 1184px;
-    aspect-ratio: 16 / 10;
-    height: auto;
-    background-repeat: no-repeat;
-    background-origin: border-box;
-    box-sizing: border-box;*/
     display: flex;
     align-items: center;
     justify-content: center;

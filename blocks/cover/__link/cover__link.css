@@ -12,7 +12,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    }
+}
 
 .cover__link::before {
     background: rgba(42, 44, 47, 0.3);
